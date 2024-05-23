@@ -17,15 +17,7 @@ export const ProfilePage: React.FC = () => {
           Profile Page
         </h1>
         <div className="content__body">
-          <p id="page-description">
-            <span>
-              You can use the <strong>ID Token</strong> to get the profile
-              information of an authenticated user.
-            </span>
-            <span>
-              <strong>Only authenticated users can access this page.</strong>
-            </span>
-          </p>
+
           <div className="profile-grid">
             <div className="profile__header">
               <img

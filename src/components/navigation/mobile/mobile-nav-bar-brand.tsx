@@ -13,8 +13,8 @@ export const MobileNavBarBrand: React.FC<MobileNavBarBrandProps> = ({
       <NavLink to="/">
         <img
           className="mobile-nav-bar__logo"
-          src="https://cdn.auth0.com/blog/hub/code-samples/hello-world/auth0-logo.svg"
-          alt="Auth0 shield logo"
+          src="https://cdn.auth0.com/blog/developer-hub/react-logo.svg"
+          alt="react"
           width="82"
           height="24"
         />
